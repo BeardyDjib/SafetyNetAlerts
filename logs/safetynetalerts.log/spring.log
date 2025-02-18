@@ -1,0 +1,72 @@
+2025-02-18T10:26:41.793+01:00  INFO 6492 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 21.0.4 with PID 6492 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T10:26:41.795+01:00 DEBUG 6492 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T10:26:41.796+01:00  INFO 6492 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T10:26:44.144+01:00  INFO 6492 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 3.821 seconds (process running for 6.114)
+2025-02-18T10:33:47.044+01:00  INFO 9044 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.12 with PID 9044 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T10:33:47.046+01:00 DEBUG 9044 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T10:33:47.048+01:00  INFO 9044 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T10:33:49.541+01:00  INFO 9044 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 3.481 seconds (process running for 6.032)
+2025-02-18T10:48:45.966+01:00  INFO 15088 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : Starting SafetyNetAlertsApplication using Java 17.0.12 with PID 15088 (C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts\target\classes started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T10:48:45.969+01:00 DEBUG 15088 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T10:48:45.971+01:00  INFO 15088 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T10:48:47.328+01:00  INFO 15088 --- [SafetyNetAlerts] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9000 (http)
+2025-02-18T10:48:47.343+01:00  INFO 15088 --- [SafetyNetAlerts] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-18T10:48:47.344+01:00  INFO 15088 --- [SafetyNetAlerts] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-18T10:48:47.425+01:00  INFO 15088 --- [SafetyNetAlerts] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-18T10:48:47.426+01:00  INFO 15088 --- [SafetyNetAlerts] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1358 ms
+2025-02-18T10:48:48.028+01:00  INFO 15088 --- [SafetyNetAlerts] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9000 (http) with context path '/'
+2025-02-18T10:48:48.038+01:00  INFO 15088 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : Started SafetyNetAlertsApplication in 2.877 seconds (process running for 3.434)
+2025-02-18T10:49:26.907+01:00  INFO 15088 --- [SafetyNetAlerts] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-18T10:49:27.048+01:00  INFO 15088 --- [SafetyNetAlerts] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-02-18T15:36:51.595+01:00  INFO 3168 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 3168 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T15:36:51.597+01:00 DEBUG 3168 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T15:36:51.599+01:00  INFO 3168 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T15:36:53.636+01:00  INFO 3168 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 2.831 seconds (process running for 5.037)
+2025-02-18T15:43:11.325+01:00  INFO 12040 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.12 with PID 12040 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T15:43:11.326+01:00 DEBUG 12040 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T15:43:11.327+01:00  INFO 12040 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T15:43:14.382+01:00  INFO 12040 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 3.994 seconds (process running for 6.885)
+2025-02-18T15:49:46.020+01:00  INFO 12252 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.12 with PID 12252 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T15:49:46.023+01:00 DEBUG 12252 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T15:49:46.024+01:00  INFO 12252 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T15:49:48.274+01:00  INFO 12252 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 3.088 seconds (process running for 5.388)
+2025-02-18T16:04:09.825+01:00  INFO 10756 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 10756 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:04:09.827+01:00 DEBUG 10756 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:04:09.827+01:00  INFO 10756 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:04:12.594+01:00  INFO 10756 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 3.742 seconds (process running for 8.725)
+2025-02-18T16:06:54.811+01:00  INFO 13308 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 13308 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:06:54.815+01:00 DEBUG 13308 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:06:54.816+01:00  INFO 13308 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:06:56.860+01:00  INFO 13308 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 2.755 seconds (process running for 4.936)
+2025-02-18T16:08:13.298+01:00  INFO 8916 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 8916 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:08:13.305+01:00 DEBUG 8916 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:08:13.306+01:00  INFO 8916 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:08:15.204+01:00  INFO 8916 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 2.562 seconds (process running for 5.012)
+2025-02-18T16:13:17.611+01:00  INFO 12336 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 12336 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:13:17.613+01:00 DEBUG 12336 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:13:17.614+01:00  INFO 12336 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:13:19.773+01:00  INFO 12336 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 2.922 seconds (process running for 5.243)
+2025-02-18T16:15:53.018+01:00  INFO 712 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 712 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:15:53.021+01:00 DEBUG 712 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:15:53.023+01:00  INFO 712 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:15:55.298+01:00  INFO 712 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 2.963 seconds (process running for 5.557)
+2025-02-18T16:19:46.994+01:00  INFO 1696 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.14 with PID 1696 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:19:46.995+01:00 DEBUG 1696 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:19:46.996+01:00  INFO 1696 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:19:51.512+01:00  INFO 1696 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 5.877 seconds (process running for 13.451)
+2025-02-18T16:35:25.139+01:00  INFO 13736 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Starting SafetyNetAlertsApplicationTests using Java 17.0.12 with PID 13736 (started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:35:25.172+01:00 DEBUG 13736 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:35:25.173+01:00  INFO 13736 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:35:27.365+01:00  INFO 13736 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplicationTests    : Started SafetyNetAlertsApplicationTests in 3.095 seconds (process running for 5.371)
+2025-02-18T16:35:50.509+01:00  INFO 3880 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : Starting SafetyNetAlertsApplication using Java 17.0.12 with PID 3880 (C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts\target\classes started by Nabil in C:\Users\Nabil\IdeaProjects\Projet 5\SafetyNet\SafetyNetAlerts)
+2025-02-18T16:35:50.510+01:00 DEBUG 3880 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : Running with Spring Boot v3.4.2, Spring v6.2.2
+2025-02-18T16:35:50.511+01:00  INFO 3880 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-02-18T16:35:51.712+01:00  INFO 3880 --- [SafetyNetAlerts] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9000 (http)
+2025-02-18T16:35:51.729+01:00  INFO 3880 --- [SafetyNetAlerts] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-18T16:35:51.729+01:00  INFO 3880 --- [SafetyNetAlerts] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-18T16:35:51.791+01:00  INFO 3880 --- [SafetyNetAlerts] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-18T16:35:51.792+01:00  INFO 3880 --- [SafetyNetAlerts] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1199 ms
+2025-02-18T16:35:52.235+01:00  INFO 3880 --- [SafetyNetAlerts] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9000 (http) with context path '/'
+2025-02-18T16:35:52.243+01:00  INFO 3880 --- [SafetyNetAlerts] [main] c.o.S.SafetyNetAlertsApplication         : Started SafetyNetAlertsApplication in 2.38 seconds (process running for 3.455)
+2025-02-18T16:37:27.997+01:00  INFO 3880 --- [SafetyNetAlerts] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-18T16:37:28.109+01:00  INFO 3880 --- [SafetyNetAlerts] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

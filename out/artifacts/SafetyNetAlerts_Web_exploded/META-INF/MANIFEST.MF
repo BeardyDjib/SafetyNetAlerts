@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Nabil
+Build-Jdk: JetBrains Runtime 17.0.12
+Implementation-Title: SafetyNetAlerts
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.openclassrooms
+Main-Class: ${start-class}
+
